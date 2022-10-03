@@ -22,7 +22,7 @@ public class Lab01_Q1
       courseAndSemester = "CS101 Fall 2022";                                                          //forgot the semicolon at the end of the line             
       
       // Then print out welcome message for this course, semester and lab
-      System.out.println( "Hi everyone, below are details about lab grades" );                     //forgot quotation marks at the end of the string
+      System.out.println( "Hi everyone, below are details about lab grades" );                        //forgot quotation marks at the end of the string
       System.out.println( "Welcome to " + courseAndSemester + " Lab 01" );
       System.out.println();
       
